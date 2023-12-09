@@ -1,0 +1,24 @@
+.js-btn-prev {
+    display: none;
+}
+.list {
+    flex-wrap: wrap;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+.avatar {
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+.list a {
+    text-decoration: none;
+}
+.db {
+    display: block;
+}
+.dn {
+    display: none;
+}
